@@ -1,2 +1,2 @@
 # hello-world
-This repository is a training
+Project description
